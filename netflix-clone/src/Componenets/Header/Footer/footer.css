@@ -41,6 +41,7 @@
     cursor: pointer;
 }
 .copy-write{
+    text-align: center;
     font-size: 12px;
     margin-bottom: 10px;
 }
