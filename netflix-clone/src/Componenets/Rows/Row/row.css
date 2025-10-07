@@ -24,6 +24,8 @@
     transform: scale(1.09);
 }
 .row {
-    margin-left: 20px;
-    color: white;
+    margin-top: 5px;
+    margin-left: 10px;
+    color: #003366;
+    background-color:rgb(130, 92, 35);
 }

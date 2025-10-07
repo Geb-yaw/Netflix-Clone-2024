@@ -46,7 +46,7 @@ const opts = {
 
 return (
   <div className="row">
-    <h1>{title}</h1>
+    <h3>{title}</h3>
     <div className="row_posters">
       {movies?.map((movie, index) => (
         <img
